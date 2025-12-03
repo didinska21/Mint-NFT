@@ -16,11 +16,14 @@ Universal NFT minting bot yang mendukung **Ethereum Mainnet**, **BSC**, dan **Ba
 ## 📦 Installation
 
 ### 1. Install Node.js
-```apt install nodejs```
-```apt install git```
+```bash
+apt install nodejs```
+```bash
+apt install git```
 
 ### 2. Clone/Download bot ini
-```git clone https://github.com/didinska21/Mint-NFT```
+```bash
+git clone https://github.com/didinska21/Mint-NFT```
 
 ### 3. Install dependencies
 ```bash
