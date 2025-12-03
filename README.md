@@ -32,9 +32,12 @@ npm install
 ```
 
 ### 4. Setup `.env` file
-Rename `.env.example` menjadi `.env` dan isi:
-
-```env
+Edit `.env` dengan cara 
+```bash
+nano .env
+```
+dan isi:
+```.env
 PRIVATE_KEY=your_private_key_here
 ETHERSCAN_API_KEY=your_api_key (optional)
 ```
